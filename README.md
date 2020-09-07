@@ -1,4 +1,3 @@
-https://travis-ci.org/por964/travisGettingStarted.svg?branch=master&status=failed
 
 
 Ultra simple Java Project meant for a Travis introduction
